@@ -1,0 +1,35 @@
+Week 1
+155 Min Stack
+Implement Queue using Stacks
+706. Design HashMap
+705. Design HashSet
+
+Week 2
+Search Insert Position 
+Sqrt(x) 
+Search in Rotated Sorted Array 
+81. Search in Rotated Sorted Array II 
+First Bad Version 
+Kth Smallest Element in a Sorted Matrix
+
+Week 3
+First Unique Character in a String (hashtable)
+Two Sum (hashtable)
+Group Anagrams (hashtable) 
+Maximum Subarray (dynamic programming)
+Best Time to Buy and Sell Stock (dynamic programming)
+Coin Change (dynamic programming)
+
+Week 4
+Merge Sorted Array (Array and Two Pointer)
+Product of Array Except Self (array)
+498. Diagonal Traverse (array)
+70. Climbing Stairs (dynamic programming)
+Subsets (recursion)
+
+
+Week 5
+Sort Colors
+Symmetric Tree
+Binary Tree Inorder Traversal 
+
