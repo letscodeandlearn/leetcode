@@ -33,3 +33,8 @@ Sort Colors
 Symmetric Tree
 Binary Tree Inorder Traversal 
 
+
+Week 6
+Binary tree zigzag level order traversal : https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+Construct binary tree from inorder and preorder traversal : https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+Number of islands: https://leetcode.com/problems/number-of-islands/
