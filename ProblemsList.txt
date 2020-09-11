@@ -38,3 +38,10 @@ Week 6
 Binary tree zigzag level order traversal : https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 Construct binary tree from inorder and preorder traversal : https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 Number of islands: https://leetcode.com/problems/number-of-islands/
+
+
+Week 7
+Flood fill : https://leetcode.com/problems/flood-fill/
+Rotting oranges : https://leetcode.com/problems/rotting-oranges/
+Decode String : https://leetcode.com/problems/decode-string/
+01 Matrix : https://leetcode.com/problems/01-matrix/
