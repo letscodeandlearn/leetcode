@@ -45,3 +45,9 @@ Flood fill : https://leetcode.com/problems/flood-fill/
 Rotting oranges : https://leetcode.com/problems/rotting-oranges/
 Decode String : https://leetcode.com/problems/decode-string/
 01 Matrix : https://leetcode.com/problems/01-matrix/
+
+
+Week 8:
+Task Scheduler : https://leetcode.com/problems/task-scheduler/
+Gas Station : https://leetcode.com/problems/gas-station/
+Course Schedule : https://leetcode.com/problems/course-schedule/
