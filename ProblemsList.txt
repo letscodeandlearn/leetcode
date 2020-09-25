@@ -51,3 +51,9 @@ Week 8:
 Task Scheduler : https://leetcode.com/problems/task-scheduler/
 Gas Station : https://leetcode.com/problems/gas-station/
 Course Schedule : https://leetcode.com/problems/course-schedule/
+
+Week 9:
+Linked List Cycle : https://leetcode.com/problems/linked-list-cycle/
+Remove nth Node from end of list : https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+Reorder List : https://leetcode.com/problems/reorder-list/
+
