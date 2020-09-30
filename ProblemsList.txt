@@ -57,3 +57,7 @@ Linked List Cycle : https://leetcode.com/problems/linked-list-cycle/
 Remove nth Node from end of list : https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 Reorder List : https://leetcode.com/problems/reorder-list/
 
+Week 10:
+Course schedule : https://leetcode.com/problems/course-schedule-ii/description/
+Word Search : https://leetcode.com/problems/word-search/description/
+N Queens : https://leetcode.com/problems/n-queens/description/
