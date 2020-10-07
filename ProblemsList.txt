@@ -61,3 +61,7 @@ Week 10:
 Course schedule : https://leetcode.com/problems/course-schedule-ii/description/
 Word Search : https://leetcode.com/problems/word-search/description/
 N Queens : https://leetcode.com/problems/n-queens/description/
+
+Week 11:
+Path with Maximum gold : https://leetcode.com/problems/path-with-maximum-gold/
+Count Numbers with Unique digits : https://leetcode.com/problems/count-numbers-with-unique-digits/
