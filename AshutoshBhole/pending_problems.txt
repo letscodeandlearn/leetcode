@@ -1,0 +1,10 @@
+1. Search in Rotated Sorted Array : https://leetcode.com/problems/search-in-rotated-sorted-array/
+2. Search in Rotated Sorted Array II : https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+3. Flood fill : Flood fill : https://leetcode.com/problems/flood-fill/
+4. First Bad Version : https://leetcode.com/problems/first-bad-version/
+5. Kth Smallest Element in a Sorted Matrix : https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+6. First Unique Character in a String (hashtable) : https://leetcode.com/problems/first-unique-character-in-a-string/
+7. Group Anagrams (hashtable) : https://leetcode.com/problems/group-anagrams/
+8. Maximum Subarray (dynamic programming) : https://leetcode.com/problems/maximum-subarray/
+9. Coin Change (dynamic programming) : https://leetcode.com/problems/coin-change/
+10. Task Scheduler: https://leetcode.com/problems/task-scheduler/
